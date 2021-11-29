@@ -2,7 +2,7 @@
 
 # Docker Osticket
 
-This images contains apache 2.4 and php 7.34on port 80, based on CentOS 7 Linux, ready to serve osTicket 1.15
+This images contains apache 2.4 and php 7.4 on port 80, based on CentOS 7 Linux, ready to serve osTicket 1.15
 
 # Docker Informations
 
