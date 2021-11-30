@@ -58,7 +58,6 @@ ADD php.d /etc/php.d
 ADD conf.d /etc/httpd/conf.d
 
 COPY main.sh /root/main.sh
-COPY .htaccess /root/.htaccess
 
 RUN chmod 755 /root/main.sh
 
